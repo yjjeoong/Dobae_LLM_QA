@@ -9,8 +9,8 @@ DACON 도배 하자 질의 응답 처리 AI 경진대회 상위 5%
 - Competition Link : [도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회](https://dacon.io/competitions/official/236176/overview/description](https://dacon.io/competitions/official/236216/leaderboard))
 
 ## #️⃣ 결과
--  `최종 순위 1위 대상 🎉`
-- ~~여담이지만 최종제출로 선택했던 파일 말고, 최종 점수 더 높은 예측모델도 존재함. (마감 이후 최종점수 확인 가능)~~
+-  `최종 순위 TOP 5% 🎉`
+  
   <br>
   ![image](![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/972d4f25-447d-440f-b130-6a2f78286bbc)
 )
