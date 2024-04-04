@@ -1,0 +1,14 @@
+./코드/run.sh
+ - 학습 shell 파일
+ - SFT 진행 
+
+./코드/run_rag.sh
+ - 추론 shell 파일
+ - 학습된 SFT 모델 불러와서 rag 진행
+ - inference 진행하여 답변 텍스트 파일, submission파일 생성
+
+20240311_Orion-14B-Chat-RAG_train+sum+hyper_retrain_PROMX_modi+blog_final_submission.csv
+- 최종 submission 파일
+
+20240311_Orion-14B-Chat-RAG_train+sum+hyper_retrain_PROMX_modi+blog_final
+- 최종 submission 파일에 해당하는 답변 텍스트 파일
