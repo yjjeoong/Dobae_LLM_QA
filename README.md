@@ -31,17 +31,15 @@ DACON 도배 하자 질의 응답 처리 AI 경진대회 상위 5%
 - 심사 기준: Cosine Similarity
 - Public Score: 전체 테스트 데이터 중 사전 샘플링된 40%
 - Private Score: 전체 테스트 데이터 100%
- ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
+<br>
+![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/5c22460f-4bc2-4f19-adea-29c2e272f714)
+
  <br>
  <br>
  
 
 ## #️⃣ 발표용 자료
-
-![크기변환 스크린샷 2023-11-27 102101](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/97fcdaf6-4230-4ef7-977c-ebb91c04be4c)
-
-
-[[B부터N까지] 제주 특산물 가격 예측 AI 경진대회.pdf](https://github.com/yjjeoong/JeJu_time_series_forecasting/files/13468760/B.N.AI.pdf)
+![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/17887034-4ab0-4316-84c4-ea77cb375850)
 [도배하자_ppt_도배단.pdf](https://github.com/yjjeoong/Dobae_LLM_QA/files/14862705/_ppt_.pdf)
 
 
