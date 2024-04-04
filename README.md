@@ -34,12 +34,13 @@ DACON 도배 하자 질의 응답 처리 AI 경진대회 상위 5%
   <br>
   ![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/5c22460f-4bc2-4f19-adea-29c2e272f714)
  <br>
+<br>
 
  
 
 ## #️⃣ 발표용 자료
 ![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/17887034-4ab0-4316-84c4-ea77cb375850)
-[도배하자_ppt_도배단.pdf](https://github.com/yjjeoong/Dobae_LLM_QA/files/14862705/_ppt_.pdf)
+[[도배단]도배 하자 질의 응답 처리 AI 경진대회.pdf](https://github.com/yjjeoong/Dobae_LLM_QA/files/14862705/_ppt_.pdf)
 
 
 
