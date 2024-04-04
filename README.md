@@ -31,11 +31,10 @@ DACON 도배 하자 질의 응답 처리 AI 경진대회 상위 5%
 - 심사 기준: Cosine Similarity
 - Public Score: 전체 테스트 데이터 중 사전 샘플링된 40%
 - Private Score: 전체 테스트 데이터 100%
-<br>
- ![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/5c22460f-4bc2-4f19-adea-29c2e272f714)
+  <br>
+  ![image](https://github.com/yjjeoong/Dobae_LLM_QA/assets/101859584/5c22460f-4bc2-4f19-adea-29c2e272f714)
+ <br>
 
- <br>
- <br>
  
 
 ## #️⃣ 발표용 자료
