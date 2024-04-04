@@ -18,19 +18,19 @@ DACON 도배 하자 질의 응답 처리 AI 경진대회 상위 5%
 ## #️⃣ 대회 소개
 
 #### [주제]
-- 제주도 특산물의 가격을 예측하는 AI 모델 개발 및 인사이트 발굴
+- 도배 하자 질의 응답 AI 모델 개발
 
 #### [주최 / 주관]
-- 주최: 제주특별자치도
-- 주관: 제주테크노파크, 데이콘
+- 주최: 한솔데코
+- 주관: 데이콘
   
 #### [규모]
-- 2,000 여명 참가
+- 1,350 여명 참가
 
 #### [규칙]
-- 심사 기준: RMSE 
-- Public Score: 2023.03.04~2023.03.17의 데이터로 측정 (2주)
-- Private Score: 2023.03.04~2023.03.31의 데이터로 측정 (4주 대회 마감 후 공개)
+- 심사 기준: Cosine Similarity
+- Public Score: 전체 테스트 데이터 중 사전 샘플링된 40%
+- Private Score: 전체 테스트 데이터 100%
  ![image](https://github.com/yjjeoong/JeJu_time_series_forecasting/assets/101859584/c424c1e0-8691-4ed5-bbdc-cc71a5627099)
  <br>
  <br>
@@ -42,6 +42,7 @@ DACON 도배 하자 질의 응답 처리 AI 경진대회 상위 5%
 
 
 [[B부터N까지] 제주 특산물 가격 예측 AI 경진대회.pdf](https://github.com/yjjeoong/JeJu_time_series_forecasting/files/13468760/B.N.AI.pdf)
+[도배하자_ppt_도배단.pdf](https://github.com/yjjeoong/Dobae_LLM_QA/files/14862705/_ppt_.pdf)
 
 
 
